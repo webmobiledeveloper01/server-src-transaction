@@ -1,0 +1,66 @@
+#confirmation {
+    text-align: center;
+    margin: 0 auto;
+}
+
+#confirmation-summary {
+    
+    margin: 0 auto;
+    padding: 1em 0;
+    width: fit-content;
+}
+
+#confirmation-order-details{
+    padding: 1em;
+    justify-content: center;
+}
+
+#order-details-table {  
+    margin: 0 auto;
+    width: fit-content;
+    background-color: aliceblue;
+    row-gap: 1em;
+}
+
+#order-details-table thead {  
+    
+    background-color: #333;
+    color: white;
+    height: 30px;
+}
+
+.confirmation-delivery-surcharge {
+    
+    background-color: rgb(196, 193, 193);
+}
+
+
+/* #order-details-table th {  
+    
+    background-color: #333;
+    color: white;
+} */
+.confirmation-book-title {
+    text-align: left;
+}
+
+.confirmation-book-quantity {
+    text-align: center;
+}
+.confirmation-book-amount {
+    text-align: right;
+}
+
+.confirmation-cart-surcharge {
+    text-align: right;
+}
+
+.confirmation-cart-total {
+    text-align: right;
+}
+
+#customer-details {
+    margin: 0 auto;
+    padding: 1.5em 0;
+    width: fit-content;
+}
